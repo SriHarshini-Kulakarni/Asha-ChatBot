@@ -56,7 +56,7 @@ Table of Contents
 ## -> Documentation 📖
 Project Source Code: 
 
-GitHub Repo https://github.com/VarshiniEppa/AI-Chatbot
+GitHub Repo https://github.com/SriHarshini-Kulakarni/Asha-ChatBot
 
 -Tech Stack:
 
