@@ -82,7 +82,7 @@ For detailed module-level documentation, check the /docs folder (if available) o
 1.Clone the project:
 
 
-git clone https://github.com/VarshiniEppa/AI-Chatbot.git
+git clone https://github.com/SriHarshini-Kulakarni/Asha-ChatBot
 
 2.Navigate to the project directory:
 
